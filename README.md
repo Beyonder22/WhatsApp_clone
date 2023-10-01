@@ -1,5 +1,5 @@
 # WhatsApp_clone
-- Made using MERN stack<br/><br/>
+- Made using MERN stack<br/>
 - A simple chat application which is still under development.<br/>
 - Uses MongoDb to store messages.<br/>
 - Due to inavailablity of realtime feature of mongoDB it becomes hard to implement WhatsApp clone using mongoDb as compared to Firebase.<br/>
